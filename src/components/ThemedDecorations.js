@@ -7,7 +7,7 @@ const ThemedDecorations = (props) => {
       });
   return (
     <div>
-      {childrenWithExtraProp}
+      {childrenWithExtraPropl}
     </div>
   )
 }
